@@ -6,7 +6,7 @@
 | Nama        | Afrizal Fajrianto Anggara Sakti  |
 | NIM         | 312210449                        |
 | Kelas       | TI.22.A.4                        |
-| Mata Kuliah | Pemrograman Visual (Desktop)     |
+| Mata Kuliah | Pemrograman Web 2     |
 
 ## Eksperimen SQL Injection di Aplikasi Web Sederhana: Belajar dari Simulasi Nyata 
 
